@@ -36,9 +36,4 @@ GOOGLE_API=
 5. Push to the branch: `git push origin my-new-feature`
 6. Submit a pull request :D
 
-## Author
 
-[SudhanPlayz](https://github.com/SudhanPlayz).  
-Authored and maintained by SudhanPlayz.
-
-> GitHub [@SudhanPlayz](https://github.com/SudhanPlayz)
